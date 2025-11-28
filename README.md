@@ -18,10 +18,10 @@ Analysis: SQL (GROUP BY, subqueries, DATE_TRUNC)
 - Exported clean CSV
 
 #  File Details
-[Notebook] `Hospital_Data_Cleaning_Colab.ipynb`
-[PostgreSQL import file] `clean_hospital_data.csv`
-[SQL queries] `hospital_data_analysis.sql`
-[Original dataset]
+[Notebook](Hospital_Data_Cleaning_Colab.ipynb)
+[PostgreSQL import file](clean_hospital_data.csv)
+[SQL queries](hospital_data_analysis.sql)
+[Original dataset](Original_Hospital_Data)
   
 # Key Business Insights
 | Metric | Result |
