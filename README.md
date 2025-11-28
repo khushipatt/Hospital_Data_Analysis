@@ -21,7 +21,7 @@ Analysis: SQL (GROUP BY, subqueries, DATE_TRUNC)
 -[Notebook](Hospital_Data_Cleaning_Colab.ipynb)
 -[PostgreSQL import file](clean_hospital_data.csv)
 -[SQL queries](hospital_data_analysis.sql)
--[Original dataset](Original_Hospital_Data)
+-[Original dataset](Original_Hospital_Data.csv)
   
 # Key Business Insights
 | Metric | Result |
