@@ -18,10 +18,10 @@ Analysis: SQL (GROUP BY, subqueries, DATE_TRUNC)
 - Exported clean CSV
 
 #  File Details
-[Notebook](Hospital_Data_Cleaning_Colab.ipynb)
-[PostgreSQL import file](clean_hospital_data.csv)
-[SQL queries](hospital_data_analysis.sql)
-[Original dataset](Original_Hospital_Data)
+-[Notebook](Hospital_Data_Cleaning_Colab.ipynb)
+-[PostgreSQL import file](clean_hospital_data.csv)
+-[SQL queries](hospital_data_analysis.sql)
+-[Original dataset](Original_Hospital_Data)
   
 # Key Business Insights
 | Metric | Result |
@@ -38,9 +38,9 @@ Analysis: SQL (GROUP BY, subqueries, DATE_TRUNC)
 - Subqueries solve complex ranking problems
 
 # Credits
-**Given by:** Satish Dhawale (YouTube)  
-**Built by:** 3rd Year BBA Business Analytics Student
-**Skills:** SQL, Excel, Pandas
+-**Given by:** Satish Dhawale (YouTube)  
+-**Built by:** 3rd Year BBA Business Analytics Student
+-**Skills:** SQL, Excel, Pandas
 
 
 
